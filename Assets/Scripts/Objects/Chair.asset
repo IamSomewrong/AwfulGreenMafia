@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 945abe7f71072bf4694dcf94e26296d3, type: 3}
+  m_Name: Chair
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 2264a3e3ddc51ab4388467bf2ce029ee, type: 3}
+  animClip: {fileID: 7400000, guid: cf62e49cd002f9043bf9707ea7d60c5f, type: 2}
+  hitDamage: 10
+  thrownDamage: 20
+  durability: 3
